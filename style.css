@@ -51,12 +51,12 @@ section {
 }
 
 section#img1 {
-    background: url(imagens/background001.jpg) no-repeat fixed;
+    background: url(imagens/background001.jpg) center no-repeat fixed;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.473);
 }
 
 section#img2 {
-    background: url(imagens/background002.jpg) no-repeat fixed;
+    background: url(imagens/background002.jpg) center no-repeat fixed;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.473);
 }
 
